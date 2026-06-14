@@ -3,6 +3,7 @@
   "name": "FreeNitroEmojis",
   "version": "1.0.0",
   "description": "Use any custom emoji for free without Nitro",
+  "main": "index.js",
   "authors": [
     {
       "name": "nyxiereal",
