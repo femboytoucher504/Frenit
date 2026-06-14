@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Use any custom emoji for free without Nitro",
   "main": "index.js",
+  "hash": "cb44a78a7deefefbf7e0a46fba6e808e1a1e37201c89b9705d31028d5475eaa7",
   "authors": [
     {
       "name": "nyxiereal",
